@@ -1,5 +1,14 @@
 ## ¡Hola Mundo! 👋
 
+// Create an Object
+const person = {
+  firstName: "Pame",
+  lastName: "Figueroa",
+ "code":["HTML", "CSS", "JavaScript", "Java"],
+ "framework":["React", "SpringBoot"],
+ "database": "MySQL",
+  challenge: "Actualmente estoy realizando certificaciones de AWS"
+};
 <!--
 **PameFigueroaArias/PameFigueroaArias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
